@@ -1,5 +1,8 @@
 Pseudocode for Bubble Sort
 constant MAX is max length of array
+initialize printValues function using void
+initialize sort function using void
+initialize swap function using void
 
 function sort (array):
 	create integer variable i and j
@@ -26,4 +29,16 @@ function swap(a, c):
 
 
 main:
+	define an array from 0-10
+	print "Before" 
+	print the values
+	define x and y
+	print their values
+	swap their values
+	print their values again
 	
+	call sort with the array
+	print "After"
+	print the final values
+	
+	return 0
