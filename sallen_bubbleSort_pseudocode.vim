@@ -10,8 +10,12 @@ function sort (array):
 					printArray(array)
 
 function printArray(array):
-	
-
+	define MAX as 10
+	print an open bar
+	start a for loop with i gets zero, it adds 1 to i each time, and it stops when it reaches MAX
+		if i is less than MAX minus 1
+			print the value at i in the array with a comma
+		otherwise print the value of i in the array with a closed bar
 
 function swap(a, c):
 	create integer variable b to temporarily store a value
